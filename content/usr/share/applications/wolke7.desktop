@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=7Linden Wolke7 Installation
+Version=0.1.0
+Comment=Create Sieben Linden wolke7 mountpoints and stuff
+Encoding=UTF-8
+TryExec=/opt/7linden/wolke7/wolke7_install.sh
+Exec=/opt/7linden/wolke7/wolke7_install.sh
+Icon=cloud
+Terminal=false
+Type=Application
+Categories=Network;InstantMessaging;Utility;
+X-Desktop-File-Install-Version=0.23
+
